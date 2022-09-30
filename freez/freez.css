@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color{
+    background-color: green;
+    height: 80px;
+}
+body{
+    background-image: url('https://thumbs.dreamstime.com/b/cups-tasty-frozen-yogurt-strawberries-pink-wooden-table-space-text-cups-tasty-frozen-yogurt-strawberries-159563601.jpg');
+      background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+
+}
+.image{
+    width: 80px;
+    padding-top: 10px;
+    margin-left: 80px;
+}
+#inline ul li a{
+    text-decoration: none;
+}
+#inline li{
+    margin-right: 60px;
+}
+#inline ul{
+    display: flex;
+    justify-content: flex-end;
+}
+#inline ul{
+    position: relative;
+    top: -80px;
+}
+ul li{
+    list-style-position: inside;
+    padding-right: 20px;
+    list-style: none;
+}
+
+    
+    
+
+#inline ul li a{
+    color: black;
+    font-size: 20px;
+}
+#inline ul li  :hover{
+    color: red;
+
+}
+.image2{
+    margin-left: 100px;
+    
+    
+    
+    
+    
+}
+
+.product{
+    margin-left: 11px;
+}
+.yogurt{
+    text-transform: capitalize;
+    color: red;
+    margin-left: 10px;
+}
+.para{
+    width: 200px;
+    margin-left: 10px;
+    text-transform: capitalize;
+}
+.yellow{
+    text-decoration: underline;
+}
+.list{
+    display: flex;
+    justify-content: center;
+}
+.location{
+    
+    background-color: yellow;
+    color: white;
+    
+    
+    
+}
+
+
+
+ul li {
+    margin: 30px;
+}
+.list{
+    justify-content: space-around;
+    margin-left: 20px;
+}
+.list{
+position: relative;
+top: 10px;
+}
+.one{
+    display: flex;
+    justify-content: center;
+    color: white;
+    position: relative;
+    top: -100px;
+    font-size: 20px;
+
+}
+.one{
+    justify-content: space-around;
+}
+.one{
+    margin-right: 39px;
+}
+.location ul li a{
+    text-decoration: none;
+    color: white;
+
+
+}
+.location ul li a:hover{
+    color: red;
+}
+.boder{
+    color: white;
+    
+}
+.boder{
+    width: 150px;
+    position: relative;
+    top: -200px;
+    margin-left: 850px;
+    background-color: palevioletred;
+    border-radius: 3px;
+    padding-left: 20px;
+}
+.boder{
+    
+}
+    
+
+
+
+
+ 
